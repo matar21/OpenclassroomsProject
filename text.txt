@@ -1,1 +1,2 @@
 Bonjour je m'appelle Mahamat Saleh, je creer ce fichier pour tester la commande pull.
+Ce fichier est créer directement dans le remote repo pour être télécharger dans le local repo/
